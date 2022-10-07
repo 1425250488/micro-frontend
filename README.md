@@ -1,4 +1,4 @@
-# go-amis
+# 微前端
 
 ## 说明
 ```
@@ -11,7 +11,7 @@ amis-api 是node后端服务
 
 ## 实例
 
-http://www.fqyxhshlybz.co/  
+http://fqyxhshlybz.co/  
 http://175.178.87.254/
 
 
