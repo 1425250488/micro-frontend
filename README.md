@@ -1,19 +1,18 @@
 # go-amis
 
-## Project setup
+## 说明
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+main 是基座
+son-amis 是vue amis子应用，内有 amis-widget 自定义amis控件
+son-process 是vue 子应用2
+son-react 是react子应用实例
+amis-api 是node后端服务
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 实例
+
+http://www.fqyxhshlybz.co/  
+http://175.178.87.254/
+
+
+
